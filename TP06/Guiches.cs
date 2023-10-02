@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Lucas Gomes e Miguel Pataro
 namespace TP06
 {
     class Guiches

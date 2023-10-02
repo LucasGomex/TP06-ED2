@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Lucas Gomes e Miguel Pataro
+
 namespace TP06
 {
     public partial class Form1 : Form
